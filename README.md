@@ -38,8 +38,9 @@ Sempre que uma nova versão for lançada, **o programa informará que há uma no
 ## ❓ Suporte e Contato
 Se encontrar algum problema ou tiver dúvidas, entre em contato:  
 
-📧 **Email:** `matheus.inf.ufg@gmail.com`  
-💬 **Telegram:** [@monitoring_mu_bot](https://t.me/monitoring_mu_bot)  
+📧 **Email:** `matheus.inf.ufg@gmail.com` 
+💬 **Telegram Dev:** [@Matheusmbdev](https://t.me/Matheusbmdev)
+💬 **Bot Telegram:** [@monitoring_mu_bot](https://t.me/monitoring_mu_bot)  
 
 📢 **Fique atento às novidades e novas versões!**  
 
