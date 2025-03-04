@@ -18,11 +18,29 @@ Com este software, você recebe notificações automáticas via Telegram sempre 
 
 ---
 
-## 💰 Licença e Pagamento  
+## ⚠️ Aviso sobre Segurança do Windows  
+
+🛑 **O Windows pode exibir um aviso informando que o software não é seguro**.  
+
+Isso acontece porque o instalador ainda **não possui uma assinatura digital oficial**, que é uma certificação paga exigida pela Microsoft para validar aplicativos. No entanto, **o software é totalmente seguro e confiável**, pois não contém vírus nem realiza alterações no sistema. Estamos trabalhando para conseguir uma assinatura digital o mais rápido possível! 
+
+💡 **Como proceder?**  
+Caso receba esse aviso, basta clicar em **"Mais informações"** e depois em **"Executar assim mesmo"** para continuar a instalação normalmente.  
+
+---
+
+
+## 💰 Licença, Pagamento e Teste Grátis    
 
 O **Monitoramento MU Online** é um software **pago**, com um custo de **R$ 9,90 por 30 dias de uso**.  
 
-Para obter uma licença válida, é necessário realizar o pagamento via **Mercado Pago** diretamente pelo **bot no Telegram**.  
+🎁 **Bônus:** **Agora você pode testar o software gratuitamente por 7 dias!** Basta entrar em contato com o bot no Telegram para ativar o período de testes.  
+
+🟢 **Formas de Pagamento:**  
+- **PIX/Mercado Pago** – R$ 9,90/mês.  
+- **Jewel of Bless** – 45 unidades para ativar 30 dias de uso.  
+
+Para obter uma licença válida, basta realizar o pagamento via **Mercado Pago ou Jewel of Bless** diretamente pelo **bot no Telegram**.  
 
 ---
 
