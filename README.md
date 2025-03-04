@@ -37,8 +37,8 @@ O **Monitoramento MU Online** é um software **pago**, com um custo de **R$ 9,90
 🎁 **Bônus:** **Agora você pode testar o software gratuitamente por 7 dias!** Basta entrar em contato com o bot no Telegram para ativar o período de testes.  
 
 🟢 **Formas de Pagamento:**  
-- **PIX/Mercado Pago** – R$ 9,90/mês.  
-- **Jewel of Bless** – 45 unidades para ativar 30 dias de uso.  
+- 🪙**PIX/Mercado Pago** – R$ 9,90/mês.  
+- 💎**Jewel of Bless** – 45 unidades para ativar 30 dias de uso.  
 
 Para obter uma licença válida, basta realizar o pagamento via **Mercado Pago ou Jewel of Bless** diretamente pelo **bot no Telegram**.  
 
